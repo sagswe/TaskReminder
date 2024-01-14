@@ -1,0 +1,15 @@
+
+html,body{
+    height:350px;
+    background-color: burlywood;
+}
+.save-button {
+    margin-top: 5vw;
+    margin-left: 1vw;
+    width: 20vw;
+}
+
+.footer {
+    margin-top: 2vw;
+    margin-left: 4.5vw;
+}
